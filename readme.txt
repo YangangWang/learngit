@@ -4,3 +4,4 @@ git is free software.
 ----update2
 ----update3
 -i am branch dev.
+--creating a new branch is quick and simple.
